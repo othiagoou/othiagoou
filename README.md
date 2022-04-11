@@ -2,7 +2,6 @@
 
 - 👨🏻‍💻 Trabalho com front-end/back-end;
 - 📚 Estudando JavaScript;
-- 😀 Ele/dele.
 
 <div align="center">
   <a href="https://github.com/zthiagoou">
