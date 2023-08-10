@@ -32,12 +32,6 @@
 </div>
 
 <div align="center">
-
-  /* ![Snake animation](https://github.com/othiagoou/othiagoou/blob/output/github-contribution-grid-snake.svg) */
-  
-</div>
-
-<div align="center">
   <p>Feito com muito :heart: e programação</p>
   <p>Créditos para: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
