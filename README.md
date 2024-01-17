@@ -1,37 +1,24 @@
-<div>
-  
-  <h1 align="center">
-    Opa, eu me chamo 
-    <p>Thiago Rodrigues 😃️</p>
-  </h1>
-  
-  <p align="center">
-    Atualmente sou Desenvolvedor Front-End e estou estudando HTML, CSS E JavaScript (além de git & github)
-  </p>
-  
-</div>
+### Welcome to my GitHub 👋
 
-<div align="center">
-  <a href="https://github.com/othiagoou">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=othiagoou&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othiagoou&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+My name is Thiago, I'm 16 years old and I've been a developer for over 3 years, I hope you like my work!
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Logo do HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo do CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Logo do Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Logo do Github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div><br>
+> 🔭 I'm a developer! <br/>
 
-<div align="center">
-  <a href="https://www.instagram.com/othiagoou/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiagorodriguesdeoliveira40@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### 📋 Programming Languages:
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div align="center">
-  <p>Feito com muito :heart: e programação</p>
-  <p>Créditos para: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+### 📄 IDEs/Editors:
+  ![Visual Studios Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 🚀 Version Control, Hostings, Servers
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-43853D?style=for-the-badge&logo=nginx&logoColor=white)
+<br/>
+<details>
+  <summary>💬 Contacts</summary>
+   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
+   <string>thiagoou</string>
+</details> 
