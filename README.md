@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-My name is Thiago, I'm 16 years old and I've been a developer for over 3 years, I hope you like my work!
+My name is Thiago, I'm 17 years old and I've been a developer for over 4 years, I hope you like my work!
 
 > 🔭 I'm a developer! <br/>
 
