@@ -1,6 +1,6 @@
-### Welcome to my GitHub 👋
+### Bem-vindo ao meu github meu chapa 👋
 
-My name is Thiago, I'm 17 years old and I've been a developer for over 4 years, I hope you like my work!
+Dev ruim nas horas vagas
 
 > 🔭 I'm a developer! <br/>
 
@@ -20,5 +20,5 @@ My name is Thiago, I'm 17 years old and I've been a developer for over 4 years, 
 <details>
   <summary>💬 Contacts</summary>
    </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"
-   <string>thiagoou</string>
+   <string>thigasmec</string>
 </details> 
